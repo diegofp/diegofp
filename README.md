@@ -1,13 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on data engineering / Business Intelligence and Data Science
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: diego.paranhos@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I love play ♟️, ⚽, and 🏃🏻‍♂️ (10k - 21k), I'm Corinthians fans, I have 3 🐈 and 2 sons 👨‍👩‍👧‍👦!!
+- ⚡ Fun fact: I love play ♟️, ⚽, and 🏃🏻‍♂️ (10k - 21k), I'm Corinthians fans, I have 3 🐈 and 2 sons 👨‍👩‍👧‍👦!! I love Marvel, DC and Star Wars.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
